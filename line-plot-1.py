@@ -33,3 +33,14 @@ plt.xscale('log')
 
 # Show plot
 plt.show()
+
+# Exercise 4
+
+# Import package
+import matplotlib.pyplot as plt
+
+# Build Scatter plot
+plt.scatter(pop, life_exp)
+
+# Show plot
+plt.show()
